@@ -22,8 +22,7 @@ Este repositório contém o código-fonte do meu portfólio acadêmico profissio
 ## Contato
 
 Roseane - @rose.codesweb https://www.instagram.com/rose.codesweb/
-Email - roseane.1212@hotmmail.com
-LinkedIn - https://www.linkedin.com/in/roseane-silva-0b150114b/
+
 
 ---
 
